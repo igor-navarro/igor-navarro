@@ -31,4 +31,4 @@ APIs REST
 Conceitos de Cloud e AWS
 
 📫 Contato
-LinkedIn: (https://www.linkedin.com/in/igor-paqueli-navarro-79014828b/)
+LinkedIn: (linkedin.com/in/igor-paqueli-navarro)
