@@ -12,6 +12,8 @@
 
 Java
 
+Python
+
 Git & GitHub
 
 Spring Boot
