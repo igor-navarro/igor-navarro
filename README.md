@@ -3,7 +3,7 @@
 
 💻 Estudante de Engenharia da Computação 
 
-🚀 Focado em desenvolvimento backend com Java
+🚀 Focado em desenvolvimento backend
 
 ☁️ Estudando Cloud (AWS)
 
