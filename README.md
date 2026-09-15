@@ -14,8 +14,8 @@ Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento
 
 ## 📌 Projetos em destaque
 - **[Medidor de Hardware](https://github.com/igor-navarro/Medidor-de-Hardware)** — monitoramento de CPU/RAM/disco em Python, com alertas via Telegram
-- **[Gerador de Senhas](LINK_DO_REPO)** — geração de senhas seguras, em Java
-- **[Todo Notifier](LINK_DO_REPO)** — lembretes de tarefas via bot do Telegram, com CLI e persistência em JSON
+- **[Gerador de Senhas](https://github.com/igor-navarro/Gerador-de-senhas)** — geração de senhas seguras, em Java
+- **[Todo Notifier](https://github.com/igor-navarro/todo-notifier)** — lembretes de tarefas via bot do Telegram, com CLI e persistência em JSON
 - **[Gravador de Tela](https://github.com/igor-navarro/Gravador-de-tela)** — captura e grava a tela do PC em vídeo, em Python
 
 ## 📫 Contato
@@ -40,8 +40,9 @@ Computer Engineering student, working with data and low-code development at Arce
 
 ## 📌 Featured projects
 - **[Hardware Monitor](https://github.com/igor-navarro/Medidor-de-Hardware)** — CPU/RAM/disk monitoring in Python, with Telegram alerts
-- **[Password Generator](LINK_DO_REPO)** — secure password generation, in Java
-- **[Todo Notifier](LINK_DO_REPO)** — task reminders via Telegram bot, with CLI and JSON persistence
+- **[Password Generator](https://github.com/igor-navarro/Gerador-de-senhas)** — secure password generation, in Java
+- **[Todo Notifier](https://github.com/igor-navarro/todo-notifier)** — task reminders via Telegram bot, with CLI and JSON persistence
+- **[Screen Recorder](https://github.com/igor-navarro/Gravador-de-tela)** — captures and records the PC screen as video, in Python
 
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/igor-paqueli-navarro)
