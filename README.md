@@ -16,6 +16,7 @@ Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento
 - **[Medidor de Hardware](https://github.com/igor-navarro/Medidor-de-Hardware)** — monitoramento de CPU/RAM/disco em Python, com alertas via Telegram
 - **[Gerador de Senhas](LINK_DO_REPO)** — geração de senhas seguras, em Java
 - **[Todo Notifier](LINK_DO_REPO)** — lembretes de tarefas via bot do Telegram, com CLI e persistência em JSON
+- **[Gravador de Tela](https://github.com/igor-navarro/Gravador-de-tela)** — captura e grava a tela do PC em vídeo, em Python
 
 ## 📫 Contato
 [LinkedIn](https://linkedin.com/in/igor-paqueli-navarro)
