@@ -1,5 +1,7 @@
 # Olá, eu sou o Igor 👋
 
+🇧🇷 Português (abaixo) · clique para ler em 🇺🇸 [English](#-hi-im-igor)
+
 Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento low-code na ArcelorMittal — construindo projetos em Java, Python e Spring Boot para migrar para desenvolvimento backend.
 
 ## 🔨 Em que estou trabalhando
@@ -12,8 +14,35 @@ Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento
 
 ## 📌 Projetos em destaque
 - **[Medidor de Hardware](https://github.com/igor-navarro/Medidor-de-Hardware)** — monitoramento de CPU/RAM/disco em Python, com alertas via Telegram
-- **[Tarefas](https://github.com/igor-navarro/Tarefas)** — sistema para salvar e gerenciar tarefas
-- **[Gravador de Tela](https://github.com/igor-navarro/Gravador-de-tela)** — gravação de tela do PC em Python
+- **[Gerador de Senhas](LINK_DO_REPO)** — geração de senhas seguras, em Java
+- **[Todo Notifier](LINK_DO_REPO)** — lembretes de tarefas via bot do Telegram, com CLI e persistência em JSON
 
 ## 📫 Contato
 [LinkedIn](https://linkedin.com/in/igor-paqueli-navarro)
+
+<br>
+
+<details>
+<summary>🇺🇸 Click to read in English</summary>
+
+# Hi, I'm Igor 👋
+
+Computer Engineering student, working with data and low-code development at ArcelorMittal — building projects in Java, Python, and Spring Boot to move into backend development.
+
+## 🔨 What I'm working on
+- Expanding the Hardware Monitor (CPU/RAM/disk monitoring with Telegram alerts)
+- Studying Java + Spring Boot and REST APIs
+- Looking for developer opportunities
+
+## 🧰 Stack
+`Java` `Spring Boot` `Python` `SQL` `AWS` `Git`
+
+## 📌 Featured projects
+- **[Hardware Monitor](https://github.com/igor-navarro/Medidor-de-Hardware)** — CPU/RAM/disk monitoring in Python, with Telegram alerts
+- **[Password Generator](LINK_DO_REPO)** — secure password generation, in Java
+- **[Todo Notifier](LINK_DO_REPO)** — task reminders via Telegram bot, with CLI and JSON persistence
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/igor-paqueli-navarro)
+
+</details>
