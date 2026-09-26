@@ -15,6 +15,7 @@ Java Spring Boot Python SQL AWS Git
 - **Todo Notifier** — lembretes de tarefas via bot do Telegram, com CLI e persistência em JSON
 - **Gravador de Tela** — captura e grava a tela do PC em vídeo, em Python
 - **Buscador de CEP** — consulta de endereços via API ViaCEP, em Python
+- **Conversor de Moedas** — conversão de moedas em tempo real via API pública, em Python
 
 ## 📫 Contato
 LinkedIn
@@ -41,6 +42,7 @@ Java Spring Boot Python SQL AWS Git
 - **Todo Notifier** — task reminders via Telegram bot, with CLI and JSON persistence
 - **Screen Recorder** — captures and records the PC screen as video, in Python
 - **CEP Lookup** — address lookup via the ViaCEP API, in Python
+- **Currency Converter** — real-time currency conversion via a public API, in Python
 
 ## 📫 Contact
 LinkedIn
