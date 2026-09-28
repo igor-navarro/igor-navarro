@@ -14,8 +14,8 @@ Java Spring Boot Python SQL AWS Git
 - **Gerador de Senhas** — geração de senhas seguras, em Java
 - **Todo Notifier** — lembretes de tarefas via bot do Telegram, com CLI e persistência em JSON
 - **Gravador de Tela** — captura e grava a tela do PC em vídeo, em Python
-
-
+- **Buscador de CEP** — consulta de endereços via API ViaCEP, em Python
+- **Conversor de Moedas** — conversão de moedas em tempo real via API pública, em Python
 
 
 ## 📫 Contato
