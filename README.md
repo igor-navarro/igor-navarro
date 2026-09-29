@@ -7,7 +7,7 @@ Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento
 - Buscando oportunidades como desenvolvedor
 
 ## 🧰 Stack
-Java Spring Boot Python SQL AWS Git
+Java / Spring Boot Python SQL AWS Git
 
 ## 📌 Projetos em destaque
 - **Medidor de Hardware** — monitoramento de CPU/RAM/disco em Python, com alertas via Telegram
