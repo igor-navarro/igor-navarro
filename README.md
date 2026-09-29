@@ -1,4 +1,5 @@
 Olá, eu sou o Igor 👋
+
 Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento low-code na ArcelorMittal — construindo projetos em Java, Python e Spring Boot para migrar para desenvolvimento backend.
 
 ## 🔨 Em que estou trabalhando
