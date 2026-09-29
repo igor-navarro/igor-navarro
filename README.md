@@ -39,12 +39,12 @@ Computer Engineering student, working with data and low-code development at Arce
 Java Spring Boot Python SQL AWS Git
 
 ## 📌 Featured projects
-- **Hardware Monitor** — CPU/RAM/disk monitoring in Python, with Telegram alerts
-- **Password Generator** — secure password generation, in Java
-- **Todo Notifier** — task reminders via Telegram bot, with CLI and JSON persistence
-- **Screen Recorder** — captures and records the PC screen as video, in Python
-- **CEP Lookup** — address lookup via the ViaCEP API, in Python
-- **Currency Converter** — real-time currency conversion via a public API, in Python
+- **[Hardware Monitor](https://github.com/igor-navarro/Medidor-de-Hardware)** — CPU/RAM/disk monitoring in Python, with Telegram alerts
+- **[Password Generator](https://github.com/igor-navarro/Gerador-de-senhas)** — secure password generation, in Java
+- **[Todo Notifier](https://github.com/igor-navarro/todo-notifier)** — task reminders via Telegram bot, with CLI and JSON persistence
+- **[Screen Recorder](https://github.com/igor-navarro/Gravador-de-tela)** — captures and records the PC screen as video, in Python
+- **[CEP Lookup](https://github.com/igor-navarro/buscador-cep)** — address lookup via the ViaCEP API, in Python
+- **[Currency Converter](https://github.com/igor-navarro/Conversor_de_Moedas)** — real-time currency conversion via a public API, in Python
 
 ## 📫 Contact
 LinkedIn
