@@ -29,6 +29,7 @@ LinkedIn
 <summary>🇺🇸 Click to read in English</summary>
 
 Hi, I'm Igor 👋
+
 Computer Engineering student, working with data and low-code development at ArcelorMittal — building projects in Java, Python, and Spring Boot to move into backend development.
 
 ## 🔨 What I'm working on
