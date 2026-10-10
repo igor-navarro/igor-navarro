@@ -38,7 +38,7 @@ Computer Engineering student, working with data and low-code development at Arce
 - Looking for developer opportunities
 
 ## 🧰 Stack
-Java Spring Boot Python SQL AWS Git
+Java / Spring Boot / Python / SQL / Clound / Git
 
 ## 📌 Featured projects
 - **[Hardware Monitor](https://github.com/igor-navarro/Medidor-de-Hardware)** — CPU/RAM/disk monitoring in Python, with Telegram alerts
