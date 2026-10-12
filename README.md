@@ -8,7 +8,7 @@ Estudante de Engenharia da Computação, trabalhando com dados e desenvolvimento
 - Buscando oportunidades como desenvolvedor
 
 ## 🧰 Stack
-Java / Spring Boot / Python / SQL / Clound / Git
+Java · Spring Boot · Python · SQL · AWS · Git · Power BI · Power Automate
 
 ## 📌 Projetos em destaque
 - **[Medidor de Hardware](https://github.com/igor-navarro/Medidor-de-Hardware)** — monitoramento de CPU/RAM/disco em Python, com alertas via Telegram
